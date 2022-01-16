@@ -1,6 +1,7 @@
-# cripte
+# Cripte
 
-A new Flutter project.
+Bringing Transparency to every Transaction. 
+Built with <3 Using, Flutter, Dart & Covalent API
 
 ## Getting Started
 
